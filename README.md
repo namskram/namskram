@@ -14,7 +14,7 @@ This is a personal GitHub account, and the sole purpose of this README is simply
 | Website      | June 2024    | Practice JS and graphic design, display personal info | :clock3:      |
 | 2D Game      | Aug 2024     | Python or Java tetris/arcade style movement shooter   | :x:           |
 | Database     | Sept 2024    | Connect frontend+backend, store lists for hobbies etc | :x:           |
-| AI           | Oct 2024     | Create basic AI, low functionality search engine type | :x:           |
+| AI           | Oct 2024     | Create basic AI/algorithm that can play simple games  | :x:           |
 
 
 ## Badges
