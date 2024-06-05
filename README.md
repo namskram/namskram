@@ -12,9 +12,10 @@ This is a personal GitHub account, and the sole purpose of this README is simply
 | :memo: Plans | :date: Start | :clipboard: Short Description                         | :bulb: Status |
 | -------------| ------------ | ----------------------------------------------------- | :-----------: |
 | Website      | June 2024    | Practice JS and graphic design, display personal info | :clock3:      |
-| 2D Game      | Aug 2024     | Python or Java tetris/arcade style movement shooter   | :x:           |
-| Database     | Sept 2024    | Connect frontend+backend, store lists for hobbies etc | :x:           |
-| AI           | Oct 2024     | Create basic AI/algorithm that can play simple games  | :x:           |
+| Game Program | Aug 2024     | Use AI image-recognition for solving stat problems    | :x:           |
+| 2D Game      | Sept 2024    | Python or Java tetris/arcade style movement shooter   | :x:           |
+| Database     | Oct 2024     | Connect frontend+backend, store lists for hobbies etc | :x:           |
+| AI           | Nov 2024     | Create basic AI/algorithm that can play simple games  | :x:           |
 
 
 ## Badges
