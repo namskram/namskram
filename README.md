@@ -21,3 +21,5 @@ This is a personal GitHub account, and the sole purpose of this README is simply
 ## Badges
 
 <a href="https://www.credly.com/badges/4afcbf6d-1b67-49a5-af3f-201e103c6c4a"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="250"></a>
+
+No contributions on profile bc I'm lazy and I have a bot merge to main for me. :sweat_smile:
