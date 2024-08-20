@@ -9,13 +9,13 @@ I am planning on working on random projects with no particular direction based o
 
 This is a personal GitHub account, and the sole purpose of this README is simply to hold myself accountable. :alarm_clock:
 
-| :memo: Plans | :date: Start | :clipboard: Short Description                         | :bulb: Status      |
-| -------------| ------------ | ----------------------------------------------------- | :-----------:      |
-| Website      | June 2024    | Practice JS and graphic design, display personal info | :heavy_check_mark: |
-| Game Program | Aug 2024     | Use AI image-recognition for solving stat problems    | :clock3:           |
-| 2D Game      | Sept 2024    | Python or Java tetris/arcade style movement shooter   | :x:                |
-| Database     | Oct 2024     | Connect frontend+backend, store lists for hobbies etc | :x:                |
-| AI           | Nov 2024     | Create basic AI/algorithm that can play simple games  | :x:                |
+| :memo: Plans | :date: Start | :clipboard: Short Description                           | :bulb: Status      |
+| -------------| ------------ | ------------------------------------------------------- | :-----------:      |
+| Website      | June 2024    | Practice JS and graphic design, display personal info   | :heavy_check_mark: |
+| Game Program | Aug 2024     | Use AI image-recognition for solving stat problems      | :heavy_check_mark: |
+| 2D Game      | Sept 2024    | Python or Java tetris/arcade style movement shooter     | :clock3:           |
+| Database     | Nov 2024     | Connect a frontend+backend, store lists for hobbies etc | :x:                |
+| AI           | Dec 2024     | Create basic AI/algorithm that can play simple games    | :x:                |
 
 
 ## Badges
