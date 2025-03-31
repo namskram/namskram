@@ -12,10 +12,10 @@ Just working on random projects with no particular direction. :shipit:
 | Website      | June 2024    | Practice JS and graphic design, display personal info   | :heavy_check_mark: |
 | Game Program | Aug 2024     | Use AI image-recognition for solving stat problems      | :heavy_check_mark: |
 | Game Program | Oct 2024     | Revisit game program, turn into actual web application  | :heavy_check_mark: |
-| 2D Game Demo | Dec 2024     | Java tetris/arcade style movement shooter, baseline     | :clock3:           |
+| 2D Game Demo | Dec 2024     | Java tetris/arcade style movement shooter, baseline     | :heavy_check_mark:           |
 | AI           | TBD          | Create basic AI/algorithm that can play simple games    | :x:                |
 | Website      | TBD          | Revisit website, turn into full-fledged website w/ UI   | :x:                |
-| 2D Game      | Dec 2024     | Turn game from playable demo into actual game, refactor | :clock3:           |
+| 2D Game      | Apr 2025     | Turn game from playable demo into actual game, refactor | :clock3:           |
 
 
 
