@@ -2,7 +2,7 @@
 
 - Class of 2024 grad :mortar_board:
 - Preferred language is Java :coffee:
-- Like to read and play PC games :desktop_computer:
+- Hobbies are reading, running, and playing PC games :desktop_computer:
 - Username is "marksman" backwards :bow_and_arrow:
 
 Just working on random projects with no particular direction. :shipit:
