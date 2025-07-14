@@ -23,4 +23,4 @@ Working on random projects with no particular direction. :shipit:
 ## Badges
 
 <a href="https://www.credly.com/badges/4afcbf6d-1b67-49a5-af3f-201e103c6c4a"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="250"></a>
-<a href="https://www.credly.com/earner/earned/badge/0bc61107-e89b-4f8b-9c60-20ad1850522e"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="250"></a>
+<a href="[https://www.credly.com/earner/earned/badge/0bc61107-e89b-4f8b-9c60-20ad1850522e](https://www.credly.com/badges/0bc61107-e89b-4f8b-9c60-20ad1850522e/public_url)"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="250"></a>
